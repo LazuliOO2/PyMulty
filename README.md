@@ -1,7 +1,7 @@
 # pyMulty
 
 ## 📌 Sobre este repositório
-> Este repositório reúne atividades desenvolvidas ao longo da faculdade, incluindo uma análise de livro com base nos princípios da Programação Orientada a Objetos e um projeto completo de ETL com integração de dados reais do Mercado Livre. Ao longo do tempo, pretendo manter uma organização mais robusta e profissional, refletindo minha evolução como desenvolvedor.
+> Este repositório reúne atividades que contém mais de 1 linguagem para ser feito e que incluir python
 
 ---
 
